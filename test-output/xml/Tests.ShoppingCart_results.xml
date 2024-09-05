@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Regression"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="109.385">
+  <properties />
+  
+  
+            <testcase name="addMultipleProducts" time="16.158" classname="Tests.ShoppingCart" />
+                <testcase name="freeShippingTest" time="31.239" classname="Tests.ShoppingCart" />
+                <testcase name="deleteOneProdTest" time="21.836" classname="Tests.ShoppingCart" />
+                <testcase name="increaseQuantity" time="14.389" classname="Tests.ShoppingCart" />
+                <testcase name="updateCart" time="25.763" classname="Tests.ShoppingCart" />
+      
+</testsuite>
